@@ -22,7 +22,7 @@ public class SaveSystemUserTest extends BaseClass {
 		
 		homepage.addBtn();
 		save=new SaveSystemUserPage();
-		  save.addUserDetails();
+	    save.addUserDetails();
 		System.out.println("AddButton and Add user is passed");
 	}
 }
